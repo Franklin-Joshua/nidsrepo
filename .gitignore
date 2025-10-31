@@ -1,4 +1,4 @@
-node_modules/
+﻿node_modules/
 **/node_modules/
 
 dist/
@@ -16,5 +16,3 @@ pnpm-debug.log*
 
 .vscode/
 .DS_Store
-
-
